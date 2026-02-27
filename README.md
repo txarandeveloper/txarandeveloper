@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola👋, soy txaran.
+- Estoy aprendiendo desarrollo web en [web.dev](https://web.dev/?hl=es-419) de *forma autodidacta*.🤓
+  - Tambien estoy aprendiendo desde la [***Cisco Networking Academy:***](https://www.netacad.com/es/) Aprendiendo ***Python, JavaScript, C++, Etc.*** Más bien reforzando todo lo aprendido.
 
-<!--
-**txarandeveloper/txarandeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Tambien tengo el libro de: [editorial ANAYA Curso de Desarrollo Web: HTML, CSS y JavaScript.](https://anayamultimedia.es/libro/manuales-imprescindibles/curso-de-desarrollo-web-html-css-y-javascript-edicion-2021-mario-rubiales-gomez-9788441544147/)
 
-Here are some ideas to get you started:
+- Y el libro de python del **youtuber y desarrollador** [Xavier Reyes Ochoa ***'Programador X'***](https://www.youtube.com/@ProgramadorX/about). 
+  - El libro es [***Aprende Python - Desde cero hasta Avanzado.***](https://www.amazon.es/Aprende-Python-desde-hasta-avanzado/dp/398929136X)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proximamente....📚️
+- Quiero hacer el **BOOTCAMP** de Pixel pro [Full-stack Developer](https://pixelpro.es/carreras/full-stack-developer.html).
+
+### Lenguajes y FrameWorks.
+<h3>FrontEnd 🖥️</h3>
+<tr>
+    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="60px"/>
+    </th>
+    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="60px"/>
+    </th>
+    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60px"/>
+    </th>
+    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="60px"/>
+    </th>
+    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="60px"/>
+    </th>
+    <th></th>
+    <th></th>
+</tr>
