@@ -10,4 +10,11 @@
 ## Proximamente....📚️
 - Quiero hacer el **BOOTCAMP** de Pixel pro [Full-stack Developer](https://pixelpro.es/carreras/full-stack-developer.html).
 
-### Lenguajes y FrameWorks.
+## Lenguajes y FrameWorks.
+
+### Frontend.
+  <p aligth="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60px"/>
+  </p>
